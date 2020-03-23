@@ -18,7 +18,7 @@ end
 
 def id_generator
   hash = {
-    1 => "yes"
+    :id => 5
   }
   return hash
 end
