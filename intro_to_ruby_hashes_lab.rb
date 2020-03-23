@@ -4,21 +4,21 @@ end
 
 def my_hash
   newHash = {
-    :name = "brandon",
-    :name1 = "stephnaie",
-    :name2 = "allina"
+    :name => "brandon",
+    :name1 => "stephnaie",
+    :name2 => "allina"
   }
 end
 
 def pioneer
   hash = {
-    :name = "Grace Hopper"
+    :name => "Grace Hopper"
   }
 end
 
 def id_generator
   hash = {
-    :1 = "Brandon"
+    :1 => "Brandon"
   }
 end
 
