@@ -20,6 +20,7 @@ def id_generator
   hash = {
     1 => "yes"
   }
+  return hash
 end
 
 def my_hash_creator(key, value)
