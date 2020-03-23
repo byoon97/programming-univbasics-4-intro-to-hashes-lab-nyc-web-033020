@@ -24,7 +24,8 @@ end
 
 def my_hash_creator(key, value)
   newHash = {}
-  return newHash[key] = value
+  newHash[key] = value
+  return newHash[key]
 end
 
 def read_from_hash(hash, key)
