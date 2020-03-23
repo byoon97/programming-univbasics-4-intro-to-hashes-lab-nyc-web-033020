@@ -18,7 +18,7 @@ end
 
 def id_generator
   hash = {
-    :1 => "yes"
+    1 => "yes"
   }
   return hash
 end
